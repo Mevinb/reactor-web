@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://reactor-web-seven.vercel.app/sitemap.xml
+
+# Host for canonical
+Host: https://reactor-web-seven.vercel.app/
